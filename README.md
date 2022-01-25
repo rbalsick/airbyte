@@ -7,7 +7,7 @@
 **Data integration made simple, secure and extensible.**  
 The new open-source standard to sync data from applications, APIs & databases to warehouses, lakes & other destinations.
 
-[![](docs/.gitbook/assets/deploy_locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy_on_aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy_on_gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md) [![](docs/.gitbook/assets/deploy_on_k8s.svg)](docs/deploying-airbyte/on-kubernetes.md)
+[![](docs/.gitbook/assets/deploy_locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy_on_aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy_on_gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md) [![](docs/.gitbook/assets/deploy_on_k8s.svg)](docs/deploying-airbyte/on-kubernetes.md) [![](docs/.gitbook/assets/deploy_do.svg)](https://cloud.digitalocean.com/droplets/new?onboarding_origin=marketplace&appId=95451155&image=airbyte)
 
 ![](docs/.gitbook/assets/airbyte-ui-for-your-integration-pipelines.png)
 
